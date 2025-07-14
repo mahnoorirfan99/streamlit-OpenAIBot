@@ -1,0 +1,10 @@
+# Ignore virtual environments
+myenv/
+.venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
